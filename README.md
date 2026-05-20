@@ -1,3 +1,4 @@
+<!-- Do *NOT* edit this file manually. It is automatically generated. -->
 # Allowed Packages
 
 ## Python
