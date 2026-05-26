@@ -224,7 +224,9 @@ For instructions on how to request and download additional packages, see: TBD
 | abc.data | >=1.1 |
 | abind | >=1.4-8 |
 | AER | >=1.2-15 |
+| arrow | >=24.0.0 |
 | askpass | >=1.2.1 |
+| assertthat | >=0.2.1 |
 | backports | >=1.5.0 |
 | base64enc | >=0.1-6 |
 | BH | >=1.90.0-1 |
@@ -259,6 +261,7 @@ For instructions on how to request and download additional packages, see: TBD
 | conflicted | >=1.2.0 |
 | cowplot | >=1.2.0 |
 | cpp11 | >=0.5.2 |
+| crayon | >=1.5.3 |
 | data.table | >=1.18.2.1 |
 | DBI | >=1.3.0 |
 | dbplyr | >=2.5.1 |
@@ -278,6 +281,7 @@ For instructions on how to request and download additional packages, see: TBD
 | farver | >=2.1.2 |
 | fastDummies | >=1.7.5 |
 | fastmap | >=1.2.0 |
+| feather | >=0.4.0 |
 | ff | >=4.5.2 |
 | fitdistrplus | >=1.2-5 |
 | flock | >=0.7 |
@@ -302,6 +306,7 @@ For instructions on how to request and download additional packages, see: TBD
 | gridExtra | >=2.3 |
 | gtable | >=0.3.6 |
 | gtools | >=3.9.5 |
+| haven | >=2.5.5 |
 | here | >=1.0.2 |
 | highr | >=0.12 |
 | hms | >=1.1.4 |
@@ -320,6 +325,7 @@ For instructions on how to request and download additional packages, see: TBD
 | listenv | >=0.10.0 |
 | lme4 | >=1.1-38 |
 | lmtest | >=0.9-40 |
+| lobstr | >=1.2.1 |
 | locfit | >=1.5-9.12 |
 | lubridate | >=1.9.5 |
 | magrittr | >=2.0.4 |
@@ -355,6 +361,7 @@ For instructions on how to request and download additional packages, see: TBD
 | polyclip | >=1.10-7 |
 | prettyunits | >=1.2.0 |
 | processx | >=3.8.6 |
+| progress | >=1.2.3 |
 | progressr | >=0.18.0 |
 | proxy | >=0.4-29 |
 | ps | >=1.9.1 |
@@ -379,6 +386,8 @@ For instructions on how to request and download additional packages, see: TBD
 | RcppProgress | >=0.4.2 |
 | rcube | >=0.5 |
 | Rdpack | >=2.6.4 |
+| readr | >=2.2.0 |
+| readxl | >=1.5.0 |
 | reformulas | >=0.4.2 |
 | rematch | >=2.0.0 |
 | rematch2 | >=2.1.2 |
@@ -448,6 +457,7 @@ For instructions on how to request and download additional packages, see: TBD
 | uwot | >=0.2.4 |
 | vctrs | >=0.6.5 |
 | viridisLite | >=0.4.2 |
+| vroom | >=1.7.1 |
 | withr | >=3.0.2 |
 | wk | >=0.9.5 |
 | xfun | >=0.57 |
