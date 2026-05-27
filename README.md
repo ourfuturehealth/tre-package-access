@@ -1,7 +1,7 @@
 <!-- Do *NOT* edit this file manually. It is automatically generated. -->
 This repository contains a real-time list of packages that have been approved for use in restricted projects. These packages supplement the pre-installed packages already available within the Trusted Research Environment (TRE). For more information on the default package set, see: [Preinstalled Packages | Trusted Research Environment](https://dnanexus.gitbook.io/ofh/jupyterlab/preinstalled-packages).
 
-For instructions on how to request and download additional packages, see: TBD
+For instructions on how to request and download additional packages, see: [Running a JupyterLab Notebook | Trusted Research Environment](https://dnanexus.gitbook.io/ofh/jupyterlab/running-a-jupyterlab-notebook)
 
 # Allowed Packages
 
