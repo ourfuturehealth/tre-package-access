@@ -372,13 +372,14 @@ For instructions on how to request and download additional packages, see: [Runni
 | quantreg | >=6.1 |
 | R6 | >=2.6.1 |
 | ragg | >=1.5.2 |
+| ranger | >=0.18.0 |
 | RANN | >=2.6.2 |
 | rappdirs | >=0.3.4 |
 | rapportools | >=1.2 |
 | raster | >=3.6-32 |
 | rbibutils | >=2.4 |
 | RColorBrewer | >=1.1-3 |
-| Rcpp | >=1.1.0 |
+| Rcpp | 1.1.1-1.1, >=1.1.0 |
 | RcppAnnoy | >=0.0.23 |
 | RcppArmadillo | >=15.2.2-1 |
 | RcppEigen | 0.3.4.0.2 |
