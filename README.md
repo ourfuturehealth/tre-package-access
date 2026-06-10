@@ -224,6 +224,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | abc.data | >=1.1 |
 | abind | >=1.4-8 |
 | AER | >=1.2-15 |
+| AgeTopicModels | >=0.3.0 |
 | arrow | >=24.0.0 |
 | askpass | >=1.2.1 |
 | assertthat | >=0.2.1 |
@@ -299,6 +300,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | ggplot2 | >=4.0.1 |
 | ggrepel | >=0.9.6 |
 | ggridges | >=0.5.7 |
+| glmnet | >=5.0 |
 | globals | >=0.18.0 |
 | glue | >=1.8.0 |
 | goftest | >=1.2-3 |
@@ -315,6 +317,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | irlba | >=2.3.7 |
 | isoband | >=0.3.0 |
 | iterators | >=1.0.14 |
+| jomo | >=2.7-6 |
 | jquerylib | >=0.1.4 |
 | jsonlite | >=2.0.0 |
 | KernSmooth | >=2.23-26 |
@@ -338,10 +341,12 @@ For instructions on how to request and download additional packages, see: [Runni
 | metadat | >=1.4-0 |
 | metafor | >=4.8-0 |
 | mgcv | >=1.9-4 |
+| mice | >=3.19.0 |
 | microbenchmark | >=1.5.0 |
 | mime | >=0.13 |
 | minqa | >=1.2.8 |
 | misc3d | >=0.9-1 |
+| mitml | >=0.4-5 |
 | modelr | >=0.1.11 |
 | nabor | >=0.5.0 |
 | nlme | >=3.1-168 |
@@ -349,6 +354,8 @@ For instructions on how to request and download additional packages, see: [Runni
 | nnet | >=7.3-20 |
 | numDeriv | >=2016.8-1.1 |
 | oddsratio | >=2.0.2 |
+| ordinal | >=2025.12-29 |
+| pan | >=1.9 |
 | pander | >=0.6.6 |
 | parallelly | >=1.46.1 |
 | patchwork | >=1.3.2 |
@@ -360,6 +367,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | png | >=0.1-8 |
 | polyclip | >=1.10-7 |
 | prettyunits | >=1.2.0 |
+| pROC | >=1.19.0.1 |
 | processx | >=3.8.6 |
 | progress | >=1.2.3 |
 | progressr | >=0.18.0 |
@@ -416,6 +424,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | Seurat | >=5.4.0 |
 | SeuratObject | >=5.3.0 |
 | sf | >=1.1-0 |
+| shape | >=1.4.6.1 |
 | sitmo | >=2.0.2 |
 | sp | >=2.2-1 |
 | spam | >=2.11-3 |
@@ -450,6 +459,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | tinytex | >=0.58 |
 | triebeard | >=0.4.1 |
 | tzdb | >=0.5.0 |
+| ucminf | >=1.2.3 |
 | units | >=1.0-1 |
 | urca | >=1.3-4 |
 | urltools | >=1.7.3.1 |
