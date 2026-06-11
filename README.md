@@ -297,6 +297,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | future.apply | >=1.20.1 |
 | gargle | >=1.6.1 |
 | generics | >=0.1.4 |
+| geosphere | >=1.6-8 |
 | ggplot2 | >=4.0.1 |
 | ggrepel | >=0.9.6 |
 | ggridges | >=0.5.7 |
