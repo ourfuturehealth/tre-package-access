@@ -97,6 +97,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | multiprocess | >=0.70.18 |
 | namex | >=0.1.0 |
 | narwhals | >=2.13.0 |
+| natsort | >=8.4.0 |
 | networkx | >=3.6.1 |
 | nodeenv | >=1.9.1 |
 | numba | >=0.63.1 |
