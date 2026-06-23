@@ -264,6 +264,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | cowplot | >=1.2.0 |
 | cpp11 | >=0.5.2 |
 | crayon | >=1.5.3 |
+| curl | >=7.1.0 |
 | data.table | >=1.18.2.1 |
 | DBI | >=1.3.0 |
 | dbplyr | >=2.5.1 |
@@ -306,6 +307,8 @@ For instructions on how to request and download additional packages, see: [Runni
 | globals | >=0.18.0 |
 | glue | >=1.8.0 |
 | goftest | >=1.2-3 |
+| googledrive | >=2.1.2 |
+| googlesheets4 | >=1.1.2 |
 | gplots | >=3.3.0 |
 | gridExtra | >=2.3 |
 | gtable | >=0.3.6 |
@@ -314,7 +317,10 @@ For instructions on how to request and download additional packages, see: [Runni
 | here | >=1.0.2 |
 | highr | >=0.12 |
 | hms | >=1.1.4 |
+| htmltools | >=0.5.9 |
+| httr | >=1.4.8 |
 | ica | >=1.0-3 |
+| ids | >=1.0.1 |
 | igraph | >=2.2.1 |
 | irlba | >=2.3.7 |
 | isoband | >=0.3.0 |
@@ -356,7 +362,9 @@ For instructions on how to request and download additional packages, see: [Runni
 | nnet | >=7.3-20 |
 | numDeriv | >=2016.8-1.1 |
 | oddsratio | >=2.0.2 |
+| openssl | >=2.4.2 |
 | ordinal | >=2025.12-29 |
+| otel | >=0.2.0 |
 | pan | >=1.9 |
 | pander | >=0.6.6 |
 | parallelly | >=1.46.1 |
@@ -402,6 +410,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | reformulas | >=0.4.2 |
 | rematch | >=2.0.0 |
 | rematch2 | >=2.1.2 |
+| reprex | >=2.1.1 |
 | reshape2 | >=1.4.5 |
 | reticulate | >=1.44.1 |
 | RhpcBLASctl | >=0.23-42 |
@@ -414,11 +423,14 @@ For instructions on how to request and download additional packages, see: [Runni
 | roptim | >=0.1.7 |
 | rpart | >=4.1.24 |
 | RSpectra | >=0.16-2 |
+| rstudioapi | >=0.19.0 |
 | Rtsne | >=0.17 |
 | runonce | >=0.3.3 |
+| rvest | >=1.0.5 |
 | s2 | >=1.1.9 |
 | S7 | >=0.2.1 |
 | sandwich | >=3.1-1 |
+| sass | >=0.4.10 |
 | scales | >=1.4.0 |
 | scattermore | >=1.2 |
 | sctransform | >=0.4.3 |
@@ -456,6 +468,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | tibble | >=3.3.0 |
 | tidyr | >=1.3.1 |
 | tidyselect | >=1.2.1 |
+| tidyverse | >=2.0.0 |
 | timechange | >=0.4.0 |
 | timeDate | >=4051.111 |
 | tinytex | >=0.58 |
