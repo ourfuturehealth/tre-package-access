@@ -50,6 +50,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | filelock | >=3.25.2 |
 | flatbuffers | >=25.9.23 |
 | fonttools | >=4.62.1 |
+| forestplot | >=0.4.1 |
 | formulaic | >=1.2.1 |
 | frozenlist | >=1.8.0 |
 | fsspec | >=2025.3.0 |
@@ -88,6 +89,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | MarkupSafe | >=3.0.3 |
 | math1 | >=1 |
 | matplotlib | >=3.10.8 |
+| matplotlib-inline | >=0.1.3 |
 | mdurl | >=0.1.2 |
 | miniKanren | >=1.0.5 |
 | ml-dtypes | >=0.5.4 |
@@ -199,6 +201,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | toolz | >=1.1.0 |
 | torch | >=2.9.1 |
 | tqdm | >=4.67.3 |
+| traitlets | >=5.16.1 |
 | triton | >=2.3.1 |
 | typer | >=0.20.0 |
 | typer-slim | >=0.20.0 |
@@ -264,6 +267,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | codetools | >=0.2-20 |
 | colorspace | >=2.1-2 |
 | commonmark | >=2.0.0 |
+| ComplexUpset | >=1.3.3 |
 | conflicted | >=1.2.0 |
 | cowplot | >=1.2.0 |
 | cpp11 | >=0.5.2 |
@@ -284,6 +288,8 @@ For instructions on how to request and download additional packages, see: [Runni
 | dqrng | >=0.4.1 |
 | dtplyr | >=1.3.2 |
 | e1071 | >=1.7-17 |
+| egg | >=0.4.5 |
+| enshuman | >=1.0.0 |
 | evaluate | >=1.0.5 |
 | farver | >=2.1.2 |
 | fastDummies | >=1.7.5 |
@@ -487,6 +493,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | timechange | >=0.4.0 |
 | timeDate | >=4051.111 |
 | tinytex | >=0.58 |
+| topr | >=2.0.4 |
 | triebeard | >=0.4.1 |
 | tzdb | >=0.5.0 |
 | ucminf | >=1.2.3 |
