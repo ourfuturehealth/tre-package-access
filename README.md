@@ -269,6 +269,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | commonmark | >=2.0.0 |
 | ComplexUpset | >=1.3.3 |
 | conflicted | >=1.2.0 |
+| corrplot | >=0.95 |
 | cowplot | >=1.2.0 |
 | cpp11 | >=0.5.2 |
 | crayon | >=1.5.3 |
@@ -302,6 +303,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | fontawesome | >=0.5.3 |
 | forcats | >=1.0.1 |
 | foreach | >=1.5.2 |
+| forecast | >=9.0.2 |
 | Formula | >=1.2-5 |
 | fracdiff | >=1.5-3 |
 | fs | >=2.0.1 |
@@ -311,8 +313,11 @@ For instructions on how to request and download additional packages, see: [Runni
 | generics | >=0.1.4 |
 | geosphere | >=1.6-8 |
 | ggplot2 | >=4.0.1 |
+| ggpubr | >=1.0.0 |
 | ggrepel | >=0.9.6 |
 | ggridges | >=0.5.7 |
+| ggsci | >=5.2.0 |
+| ggsignif | >=0.6.4 |
 | glmnet | >=5.0 |
 | globals | >=0.18.0 |
 | glue | >=1.8.0 |
@@ -392,6 +397,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | plyr | >=1.8.9 |
 | png | >=0.1-8 |
 | polyclip | >=1.10-7 |
+| polynom | >=1.4-1 |
 | prettyunits | >=1.2.0 |
 | pROC | >=1.19.0.1 |
 | processx | >=3.8.6 |
@@ -444,6 +450,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | roptim | >=0.1.7 |
 | rpart | >=4.1.24 |
 | RSpectra | >=0.16-2 |
+| rstatix | >=1.1.0 |
 | rstudioapi | >=0.19.0 |
 | Rtsne | >=0.17 |
 | runonce | >=0.3.3 |
