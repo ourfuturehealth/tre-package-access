@@ -418,11 +418,13 @@ For instructions on how to request and download additional packages, see: [Runni
 | irlba | >=2.3.7 |
 | isoband | >=0.3.0 |
 | iterators | >=1.0.14 |
+| janitor | >=2.2.1 |
 | jomo | >=2.7-6 |
 | jpeg | >=0.1-11 |
 | jquerylib | >=0.1.4 |
 | jsonlite | >=2.0.0 |
 | juicyjuice | >=0.1.0 |
+| kableExtra | >=1.4.1 |
 | kernlab | >=0.9-33 |
 | KernSmooth | >=2.23-26 |
 | knitr | >=1.51 |
@@ -584,6 +586,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | sf | >=1.1-0 |
 | shape | >=1.4.6.1 |
 | sitmo | >=2.0.2 |
+| snakecase | >=0.11.1 |
 | sp | >=2.2-1 |
 | spam | >=2.11-3 |
 | sparr | >=2.3-16 |
