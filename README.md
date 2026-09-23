@@ -267,6 +267,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | AgeTopicModels | >=0.3.0 |
 | anesrake | >=0.8 |
 | aplot | >=0.3.1 |
+| arg | >=0.2.1 |
 | argparse | >=2.3.1 |
 | arrow | >=24.0.0 |
 | ash | >=1.0-15 |
