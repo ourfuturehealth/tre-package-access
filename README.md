@@ -18,6 +18,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | antlr4-python3-runtime | >=4.9.3 |
 | anyio | >=4.12.1 |
 | appdirs | >=1.4.4 |
+| argcomplete | >=3.7.2 |
 | argparse | >=1.4.0 |
 | arviz | >=0.23.0 |
 | asciitree | >=0.3.3 |
@@ -41,6 +42,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | cloudpickle | >=3.1.2 |
 | cons | >=0.4.7 |
 | contourpy | >=1.3.3 |
+| crc32c | 2.9.post0 |
 | cuda-bindings | >=13.2.0 |
 | cuda-pathfinder | >=1.4.4 |
 | cuda-toolkit | >=13.0.2 |
@@ -55,6 +57,8 @@ For instructions on how to request and download additional packages, see: [Runni
 | distlib | >=0.4.3 |
 | docker-pycreds | >=0.4.0 |
 | drosSRA | >=0.4.5 |
+| dxdata | >=0.0.1 |
+| dxpy | >=0.399.1 |
 | epiweeks | >=2.3.0 |
 | epydemiology | >=0.1.30 |
 | et-xmlfile | >=2.0.0 |
@@ -165,6 +169,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | partd | >=1.4.2 |
 | patsy | >=1.0.2 |
 | Pgenlib | >=0.94.1 |
+| phenofhy | >=1.0.4 |
 | phx-class-registry | >=5.0.0 |
 | pillow | >=12.1.0 |
 | pip | >=26.2.1 |
@@ -173,6 +178,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | propcache | >=0.4.1 |
 | protobuf | >=6.33.1 |
 | psutil | >=7.2.2 |
+| py4j | >=0.10.9.9 |
 | pyarrow | >=22.0.0 |
 | pyasn1 | >=0.6.1 |
 | pyasn1-modules | >=0.4.2 |
@@ -191,6 +197,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | PyPDF2 | >=3.0.1 |
 | pyproj | >=3.7.2 |
 | pysam | >=0.24.0 |
+| pyspark | >=3.5.9 |
 | pytensor | >=2.36.3 |
 | pytest | >=9.0.1 |
 | python-dateutil | 2.9.0.post0 |
@@ -245,6 +252,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | urllib3 | >=1.26.20 |
 | virtualenv | >=21.6.1 |
 | watchdog | >=6.0.0 |
+| websocket-client | >=1.7.0 |
 | wheel | >=0.45.1 |
 | wrapt | >=1.17.3 |
 | xarray | >=2024.11.0, >=2025.12.0 |
