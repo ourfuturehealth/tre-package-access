@@ -308,6 +308,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | carData | >=3.0-5 |
 | cards | >=0.8.1 |
 | cardx | >=0.3.4 |
+| caret | >=7.0-1 |
 | caTools | >=1.18.3 |
 | cellranger | >=1.1.0 |
 | checkmate | >=2.3.3 |
@@ -316,6 +317,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | classInt | >=0.4-11 |
 | cli | >=3.6.5 |
 | clipr | >=0.8.0 |
+| clock | >=0.7.4 |
 | codetools | >=0.2-20 |
 | colorspace | >=2.1-2 |
 | commonmark | >=2.0.0 |
@@ -336,6 +338,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | DEoptimR | >=1.1-4 |
 | Deriv | >=4.2.0 |
 | deSolve | >=1.42 |
+| diagram | >=1.6.5 |
 | DiagrammeRsvg | >=0.1 |
 | digest | >=0.6.39 |
 | distances | >=0.1.13 |
@@ -400,6 +403,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | goftest | >=1.2-3 |
 | googledrive | >=2.1.2 |
 | googlesheets4 | >=1.1.2 |
+| gower | >=1.0.2 |
 | GPArotation | >=2026.6-1 |
 | gplots | >=3.3.0 |
 | gridExtra | >=2.3 |
@@ -408,6 +412,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | gtable | >=0.3.6 |
 | gtools | >=3.9.5 |
 | gtsummary | >=2.5.1 |
+| hardhat | >=1.4.3 |
 | haven | >=2.5.5 |
 | hdrcde | >=3.5.0 |
 | here | >=1.0.2 |
@@ -423,6 +428,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | igraph | >=2.2.1 |
 | insight | >=1.5.4 |
 | interp | >=1.1-6 |
+| ipred | >=0.9-16 |
 | IRdisplay | >=1.1 |
 | irlba | >=2.3.7 |
 | isoband | >=0.3.0 |
@@ -443,6 +449,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | labelled | >=2.16.0 |
 | lattice | >=0.22-9 |
 | latticeExtra | >=0.6-31 |
+| lava | >=1.9.3 |
 | lavaan | >=0.7-2 |
 | libcoin | >=1.0-13 |
 | lifecycle | >=1.0.4 |
@@ -478,6 +485,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | mitools | >=2.4 |
 | mnormt | >=2.1.2 |
 | mockr | >=0.2.2 |
+| ModelMetrics | >=1.2.2.2 |
 | modelr | >=0.1.11 |
 | modeltools | >=0.2-24 |
 | multcomp | >=1.4-30 |
@@ -516,6 +524,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | prettyunits | >=1.2.0 |
 | pROC | >=1.19.0.1 |
 | processx | >=3.8.6 |
+| prodlim | 2026.03.11 |
 | progress | >=1.2.3 |
 | progressr | >=0.18.0 |
 | proxy | >=0.4-29 |
@@ -532,6 +541,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | R6 | >=2.6.1 |
 | ragg | >=1.5.2 |
 | rainbow | >=3.8 |
+| randomForest | >=4.7-1.2 |
 | ranger | >=0.18.0 |
 | RANN | >=2.6.2 |
 | rappdirs | >=0.3.4 |
@@ -553,6 +563,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | reactR | >=0.6.1 |
 | readr | >=2.2.0 |
 | readxl | >=1.5.0 |
+| recipes | >=1.4.0 |
 | reformulas | >=0.4.2 |
 | rematch | >=2.0.0 |
 | rematch2 | >=2.1.2 |
@@ -600,6 +611,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | spam | >=2.11-3 |
 | sparr | >=2.3-16 |
 | SparseM | >=1.84-2 |
+| sparsevctrs | >=0.3.6 |
 | SpatialEpi | >=1.2.8 |
 | spatstat | >=3.5-1 |
 | spatstat.data | >=3.1-9 |
@@ -613,6 +625,7 @@ For instructions on how to request and download additional packages, see: [Runni
 | spatstat.utils | >=3.2-2 |
 | spData | >=2.3.4 |
 | spdep | >=1.4-1 |
+| SQUAREM | >=2026.1 |
 | stringi | >=1.8.7 |
 | stringr | >=1.6.0 |
 | SuppDists | >=1.1-9.9 |
